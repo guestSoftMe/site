@@ -115,7 +115,7 @@ body {
   align-items: center;
   margin: 0px 0px 0px 10px;
   position: relative;
-      cursor: pointer;
+  cursor: pointer;
 }
 .menu_header_text {
   font-size: 13px;
@@ -124,6 +124,7 @@ body {
   color: #898691;
   margin: 0px 0px 0px 10px;
   letter-spacing: 5px;
+  cursor: pointer;
 }
 .menu_header span {
   background-color: #898691;
